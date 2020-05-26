@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/qss"/>
+    <qresource prefix="/img">
+        <file>resources/img/radius.png</file>
+    </qresource>
+</RCC>
